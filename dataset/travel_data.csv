@@ -1,0 +1,72 @@
+city,country,type,avg_temp,cost_level,safety_rating,tourist_rating,nightlife_score,culture_score,nature_score,adventure_score,family_friendly,food_rating,best_season,avg_stay_days,popularity_score
+Paris,France,Cultural,21,Luxury,4.0,4.4,9,5,9,6,5,4.6,Fall,4,74
+Tokyo,Japan,Cultural,34,Mid-range,4.9,3.5,4,1,8,4,4,4.4,Fall,5,94
+New York,USA,Urban,29,Budget,4.0,3.7,4,4,3,1,3,4.6,Fall,2,91
+Barcelona,Spain,Beach,25,Mid-range,4.3,4.5,1,5,1,7,6,3.8,Winter,5,74
+Dubai,UAE,Urban,22,Budget,4.6,3.5,8,10,3,9,2,3.7,Year-round,2,67
+London,UK,Historical,21,Luxury,4.0,3.7,3,10,4,4,3,3.5,Summer,5,89
+Rome,Italy,Historical,33,Budget,5.0,4.3,7,5,2,4,5,4.0,Summer,2,57
+Singapore,Singapore,Urban,25,Luxury,4.9,4.5,2,7,1,6,9,4.4,Fall,3,88
+Istanbul,Turkey,Cultural,25,Mid-range,3.9,4.5,2,4,7,3,2,4.1,Fall,7,89
+Bangkok,Thailand,Beach,18,Budget,4.2,3.8,7,1,8,6,10,4.2,Spring,7,63
+Sydney,Australia,Beach,22,Budget,4.0,4.6,6,5,7,7,8,4.9,Year-round,6,81
+Amsterdam,Netherlands,Cultural,17,Luxury,3.9,3.9,3,7,5,10,2,4.0,Winter,7,87
+Prague,Czech Republic,Historical,16,Mid-range,3.6,4.0,9,10,1,10,5,4.3,Summer,4,82
+Vienna,Austria,Cultural,26,Mid-range,4.4,4.6,10,10,7,3,7,4.7,Spring,5,72
+Copenhagen,Denmark,Urban,20,Mid-range,4.3,4.5,6,6,7,7,8,4.1,Spring,6,64
+Lisbon,Portugal,Beach,16,Budget,3.6,4.8,10,5,9,3,1,4.4,Summer,4,82
+Budapest,Hungary,Historical,15,Mid-range,3.9,4.5,10,4,3,2,6,4.8,Winter,4,74
+Krakow,Poland,Historical,26,Budget,4.9,4.4,6,2,9,10,1,4.9,Spring,2,66
+Edinburgh,Scotland,Historical,26,Luxury,3.9,3.6,1,4,1,4,2,3.7,Spring,7,82
+Dublin,Ireland,Cultural,31,Mid-range,3.7,4.1,4,10,1,8,1,4.9,Year-round,3,96
+Reykjavik,Iceland,Nature,24,Mid-range,4.2,3.9,10,10,4,9,5,4.2,Winter,3,51
+Stockholm,Sweden,Urban,30,Budget,5.0,3.9,6,3,9,7,10,3.9,Spring,6,63
+Oslo,Norway,Nature,29,Mid-range,3.9,5.0,6,10,6,1,9,4.2,Winter,3,89
+Helsinki,Finland,Urban,29,Mid-range,4.5,4.1,5,1,3,3,6,5.0,Summer,5,89
+Berlin,Germany,Urban,33,Mid-range,4.6,4.8,1,8,1,9,1,4.2,Fall,3,88
+Munich,Germany,Cultural,26,Mid-range,3.9,4.4,8,5,4,1,1,4.0,Spring,6,55
+Zurich,Switzerland,Mountain,34,Luxury,4.6,4.7,5,4,9,9,2,4.5,Year-round,3,55
+Geneva,Switzerland,Urban,17,Mid-range,4.1,4.3,5,8,3,8,9,3.9,Summer,5,52
+Venice,Italy,Historical,19,Budget,4.4,4.4,7,7,9,1,3,3.6,Winter,2,56
+Florence,Italy,Cultural,33,Mid-range,4.5,4.2,4,2,7,6,1,3.7,Summer,6,57
+Milan,Italy,Urban,21,Mid-range,4.3,3.8,6,1,4,5,5,3.7,Spring,2,91
+Madrid,Spain,Cultural,23,Mid-range,3.6,4.6,4,4,3,6,7,3.7,Winter,2,64
+Seville,Spain,Cultural,21,Mid-range,4.8,3.9,3,8,10,10,6,3.7,Fall,2,96
+Porto,Portugal,Beach,32,Mid-range,4.0,3.5,7,2,5,5,1,4.5,Summer,4,78
+Athens,Greece,Historical,18,Mid-range,3.8,4.5,8,3,5,6,5,3.8,Spring,7,82
+Santorini,Greece,Beach,28,Mid-range,3.6,3.8,4,1,3,5,5,4.0,Year-round,4,79
+Mykonos,Greece,Beach,32,Budget,4.4,4.9,2,1,9,5,6,4.8,Winter,7,88
+Marrakech,Morocco,Cultural,23,Budget,4.5,4.9,10,3,4,4,3,4.2,Summer,2,76
+Cairo,Egypt,Historical,16,Budget,3.5,4.9,3,5,5,3,5,4.5,Summer,6,85
+Cape Town,South Africa,Adventure,34,Mid-range,4.3,4.1,1,3,4,3,7,3.8,Fall,7,78
+Nairobi,Kenya,Adventure,29,Mid-range,3.8,3.5,8,1,5,4,5,3.8,Fall,5,87
+Mumbai,India,Cultural,21,Mid-range,4.5,4.9,3,1,7,9,5,3.6,Year-round,5,82
+Delhi,India,Urban,26,Luxury,3.8,4.1,10,8,9,2,5,3.8,Year-round,3,86
+Jaipur,India,Cultural,22,Budget,4.5,4.9,7,10,7,9,10,3.9,Spring,7,76
+Agra,India,Historical,29,Mid-range,4.1,4.9,10,2,5,1,10,3.8,Spring,6,82
+Goa,India,Beach,17,Mid-range,4.9,4.8,5,3,10,1,3,3.6,Year-round,4,53
+Bali,Indonesia,Beach,28,Budget,3.7,3.9,10,2,10,5,1,3.7,Year-round,2,71
+Phuket,Thailand,Beach,31,Budget,4.0,4.1,5,3,7,6,5,4.2,Winter,3,51
+Hanoi,Vietnam,Cultural,18,Budget,3.7,4.8,7,7,10,6,9,3.8,Fall,5,59
+Ho Chi Minh,Vietnam,Urban,32,Budget,4.9,4.0,9,1,5,3,1,4.0,Spring,4,54
+Seoul,South Korea,Urban,22,Luxury,4.8,3.8,5,10,3,7,3,4.3,Fall,4,59
+Busan,South Korea,Beach,18,Luxury,3.9,4.3,1,8,7,9,4,4.5,Fall,2,82
+Kyoto,Japan,Cultural,16,Mid-range,4.5,4.9,10,10,2,10,1,3.6,Year-round,7,87
+Osaka,Japan,Urban,20,Luxury,4.7,4.5,10,10,9,8,1,4.7,Winter,5,62
+Hong Kong,Hong Kong,Urban,24,Luxury,4.3,4.4,1,10,10,6,8,4.4,Summer,6,80
+Macau,Macau,Urban,18,Budget,4.3,3.6,2,2,10,8,2,3.6,Winter,4,96
+Shanghai,China,Urban,32,Luxury,3.9,4.4,6,3,1,5,8,4.8,Winter,2,85
+Beijing,China,Historical,26,Mid-range,3.6,5.0,9,9,6,8,7,4.9,Fall,6,94
+Xi'an,China,Historical,16,Luxury,4.8,3.7,8,7,7,10,10,3.6,Winter,7,73
+Kuala Lumpur,Malaysia,Urban,24,Luxury,4.9,4.3,5,4,8,4,10,3.9,Spring,5,64
+Penang,Malaysia,Beach,18,Mid-range,4.4,4.8,1,10,10,10,2,4.7,Fall,7,78
+Melbourne,Australia,Urban,28,Budget,4.0,4.6,7,5,9,8,6,4.6,Spring,4,57
+Auckland,New Zealand,Nature,30,Budget,4.0,4.5,5,2,2,10,6,3.8,Summer,6,54
+Queenstown,New Zealand,Adventure,29,Mid-range,4.6,4.6,6,8,10,2,3,3.8,Fall,6,78
+Fiji,Fiji,Beach,22,Luxury,4.8,4.0,7,4,2,5,2,4.1,Summer,6,96
+Maldives,Maldives,Beach,28,Luxury,4.8,3.9,3,9,5,9,1,4.2,Fall,4,53
+Seychelles,Seychelles,Beach,22,Budget,4.7,4.7,10,5,5,4,6,4.4,Year-round,4,61
+Mauritius,Mauritius,Beach,30,Mid-range,4.5,4.7,3,9,6,6,5,4.1,Winter,7,94
+Bora Bora,French Polynesia,Beach,27,Mid-range,3.6,4.8,5,4,3,1,9,4.2,Year-round,3,51
+Santorini,Greece,Beach,32,Budget,3.7,4.9,6,10,8,9,1,4.6,Summer,7,76
+Dubrovnik,Croatia,Beach,29,Budget,4.8,4.3,9,5,1,1,7,3.6,Winter,5,80
